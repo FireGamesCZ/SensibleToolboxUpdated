@@ -1,3 +1,6 @@
+Unoficial fork of STB where I'll fix some bugs, that I found and are easy to fix.
+
+
 # :toolbox: Sensible Toolbox
 Looking for the download link? [**Click here**](#floppy_disk-download-sensible-toolbox)
 
